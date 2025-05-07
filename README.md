@@ -2,7 +2,7 @@
 
 A full-stack web application inspired by the traditional "Khatabook" system — allowing users to securely manage their *hisaabs* (records), track activity, and maintain a clean personal ledger.
 
-📦 **Repository:** [GitHub - khatabook-pjt]()
+📦 **Repository:** [GitHub - khatabook-pjt](pawarekant)
 
 ---
 
@@ -51,7 +51,7 @@ khatabook-pjt/ ├── config/ # Configuration files (e.g., DB setup, middlewa
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone pawarekant
    cd khatabook-pjt
    npm install
 
