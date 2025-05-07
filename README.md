@@ -1,9 +1,8 @@
-# 📘 Khatabook - Hisaab Management App
+# 📘 DailyLedger - Finance Management App
 
 A full-stack web application inspired by the traditional "Khatabook" system — allowing users to securely manage their *hisaabs* (records), track activity, and maintain a clean personal ledger.
 
-🔗 **Live Demo:** [Click Here](https://lnkd.in/dTwU4rjT)  
-📦 **Repository:** [GitHub - khatabook-pjt](https://github.com/Amaaaaaaaan/khatabook-pjt)
+📦 **Repository:** [GitHub - khatabook-pjt]()
 
 ---
 
@@ -28,7 +27,7 @@ A full-stack web application inspired by the traditional "Khatabook" system — 
 - 👤 **Profile Management:**  
   Update and manage your profile information.
 
-- 📒 **Hisaab Management:**  
+- 📒 **Finance Management:**  
   - Add new records  
   - View all your entries  
   - Filter by date and other criteria  
@@ -52,7 +51,7 @@ khatabook-pjt/ ├── config/ # Configuration files (e.g., DB setup, middlewa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Amaaaaaaaan/khatabook-pjt.git
+   git clone 
    cd khatabook-pjt
    npm install
 
